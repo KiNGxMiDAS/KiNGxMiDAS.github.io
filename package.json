@@ -2,9 +2,9 @@
   "name": "personal-website",
   "version": "0.0.0",
   "scripts": {
-    "dev": "vite",
-    "build": "tsc && vite build",
-    "preview": "vite preview"
+    "client": "cd client && npm run dev",
+    "server": "cd server && npm run dev",
+    "dev": "cd client && npm run dev"
   },
   "dependencies": {
     "@chakra-ui/react": "^1.7.3",
