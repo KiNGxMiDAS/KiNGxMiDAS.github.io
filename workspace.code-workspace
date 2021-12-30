@@ -1,12 +1,12 @@
 {
         "folders": [
                 {   
-                        "name": "Express Server",
-                        "path": "backend",
+                        "name": "Server",
+                        "path": "server",
                 },  
                 {   
-                        "name": "React Client",
-                        "path": "frontend"
+                        "name": "Client",
+                        "path": "client"
                 }   
         ]
 }
