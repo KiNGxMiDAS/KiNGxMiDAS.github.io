@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+#top-bar {
+    background-color: #0000FF;
+    color: #FFFFFF;
+    height: 30px;
+    padding: 5px;
+}
+
+#menu-bar {
+    background-color: #CCCCCC;
+    height: 20px;
+    padding: 5px;
+}
+
+#navigation-bar {
+    background-color: #CCCCCC;
+    height: 30px;
+    padding: 5px;
+}
+
+#content {
+    margin-top: 20px;
+    padding: 20px;
+}
